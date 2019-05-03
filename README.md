@@ -17,7 +17,9 @@
 
 ## Video สาทิตวิธีใช้งาน
 - https://www.youtube.com/watch?v=WrIb623YyRc&t=13s
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xIqt7Z-5Vrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 
 ## ไฟล์โพสเตอร์
 - https://drive.google.com/file/d/1keN4JS33kQNiue38lm_0SoqT7i-U8fO2/view?usp=sharing
