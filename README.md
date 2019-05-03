@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="image/100-Get-Pro.png">
+  ## Autodoor
 </p>
 <p align="center">
   <img width="600" src="poster2.jpg">
@@ -18,8 +18,8 @@
 ## Team Members 
 |||||
 |:-:|--|---------------|---------|
-|<img width="100" src="">|นางสาวจิรัฎติกาล นุ่นชู|[film99](https://github.com/film99)|61070026|
-|<img width="100" src="">|นายเตชินท์ โค้วประเสริฐ|[61070063](https://github.com/61070063)|61070063|
-|<img width="100" src="">|นายทิวัตถ์ ทิพย์เลขา|[wakeru01](https://github.com/wakeru01)|61070067|
-|<img width="100" src="">|นายปรมัตถ์ สุริยะรังษี|[miocute](https://github.com/miocute)|61070113|
+|<img width="100" src="Picture/flim.jpg">|นางสาวจิรัฎติกาล นุ่นชู|[film99](https://github.com/film99)|61070026|
+|<img width="100" src="Picture/kuntom.jpg">|นายเตชินท์ โค้วประเสริฐ|[61070063](https://github.com/61070063)|61070063|
+|<img width="100" src="Picture/kuntime.jpg">|นายทิวัตถ์ ทิพย์เลขา|[wakeru01](https://github.com/wakeru01)|61070067|
+|<img width="100" src="Picture/kunpong.jpg">|นายปรมัตถ์ สุริยะรังษี|[miocute](https://github.com/miocute)|61070113|
 
