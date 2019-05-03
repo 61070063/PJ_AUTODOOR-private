@@ -9,7 +9,6 @@
 #define SS_PIN D8
 #define RST_PIN D4
 #define BTN_PIN D2
-//#define SLN_PIN D2
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);
 unsigned long uidDec, uidDecTemp;
